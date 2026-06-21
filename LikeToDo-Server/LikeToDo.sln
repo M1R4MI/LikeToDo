@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.320.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeToDo", "\home\vadym\Mount\ProjectsVS\ASP\LikeToDo\LikeToDo\LikeToDo.csproj", "{BF92A78D-49B4-E973-9BF3-99195150AF62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeToDo", "\home\vadym\Mount\ProjectsVS\ASP\LikeToDo\LikeToDo-Server\LikeToDo.csproj", "{BF92A78D-49B4-E973-9BF3-99195150AF62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
